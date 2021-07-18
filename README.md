@@ -5,7 +5,7 @@
 </div>
 
 
-[![Join the chat at https://gitter.im/adaptive-parking/community](https://badges.gitter.im/adaptive-parking/users.svg)](https://gitter.im/adaptive-parking/community) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/karthickai/adaptive-parking/master/LICENSE) [![Dataset Size](https://img.shields.io/github/repo-size/karthickai/adaptive-parking)](https://github.com/karthickai/adaptive-parking/tree/master/Dataset)
+[![Join the chat at https://gitter.im/adaptive-parking/community](https://badges.gitter.im/adaptive-parking/users.svg)](https://gitter.im/adaptive-parking/community) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/karthickai/adaptive-parking/master/LICENSE)
 
 
 ## Dataset
